@@ -1,0 +1,7 @@
+﻿  Chapter13_veryLong.cpp
+  verylong.cpp
+S:\perfect_circle\Chapter13_veryLong\verylong.cpp(316,38): warning C4018: '<': signed/unsigned mismatch
+S:\perfect_circle\Chapter13_veryLong\verylong.cpp(322,19): warning C4018: '<': signed/unsigned mismatch
+S:\perfect_circle\Chapter13_veryLong\verylong.cpp(325,71): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Chapter13_veryLong.vcxproj -> S:\perfect_circle\Chapter13_veryLong\Debug\Chapter13_veryLong.exe
